@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+}
+
+
+.img8{
+    
+    height: 160px;
+    width: 250px;
+    
+   
+}
+
+
+.img2{
+    margin-right: 0%;
+}
+
+h1{
+    color: white;
+    margin-right:300px;
+    width: 200px;
+}
+
+h2{
+    color: white;
+    margin-left: 35%;
+}
+
+
+.container{
+    display: flex;
+}
+
+p{
+    font-size: 40px; 
+color: red;
+}
+
+button:hover{
+    background-color: red;
+    color: red;
+font-family: cursive;
+border: solid 2px red;
+border-radius: 6px;
+   
+}
+
